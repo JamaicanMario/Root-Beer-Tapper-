@@ -28,3 +28,38 @@ Before running the game, make sure you have the following installed:
 
 ```bash
 pip install pygame
+
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/[YourUsername]/root-beer-tapper-remake.git
+cd root-beer-tapper-remake
+Run the game:
+
+bash
+Copy code
+python main.py
+How to Play
+Up Arrow: Move the bartender up to the next lane.
+Down Arrow: Move the bartender down to the next lane.
+Spacebar: Start filling a mug. Release the spacebar to send the mug down the lane.
+Objective
+Serve as many customers as possible before they reach the bar. You lose a life if a customer reaches the bartender without being served. The game ends when you run out of lives.
+
+Contributing
+Contributions are welcome! If you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request.
+
+How to Contribute
+Fork the repository.
+Create a new branch (git checkout -b feature-name).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-name).
+Open a Pull Request.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+Inspired by the original Root Beer Tapper arcade game.
+Developed using the Pygame library.
