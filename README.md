@@ -15,7 +15,7 @@ In this game, you must serve root beer to impatient customers who approach the b
 
 ## Screenshots
 
-*(Add some screenshots of your game here)*
+
 
 ## Getting Started
 
@@ -26,19 +26,19 @@ Before running the game, make sure you have the following installed:
 - **Python**: Download the latest version from [python.org](https://www.python.org/downloads/).
 - **Pygame**: Install Pygame using pip:
 
-```bash
+
 pip install pygame
 
 Installation
 Clone the repository:
 
-bash
+
 Copy code
 git clone https://github.com/[YourUsername]/root-beer-tapper-remake.git
 cd root-beer-tapper-remake
 Run the game:
 
-bash
+
 Copy code
 python main.py
 How to Play
